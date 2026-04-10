@@ -1,0 +1,51 @@
+.header{
+    background-color: rgba(0, 8, 255, 0.519);
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.a1{
+    color: white;
+    border: 15px;
+    margin: 10px;
+}
+.a2{
+    color: white;
+    border: 15px;
+    margin: 10px;
+}
+.a3{
+    color: white;
+    text-align: ;
+    margin: 10px;
+}
+body{
+    background-color: rgba(215, 221, 250, 0.423);
+    border: 20px 15px;
+    border-color: rgba(165, 144, 42, 0.366);
+    padding: 60px 30px;
+    border-radius: 30px ;
+    
+}
+.main{
+    text-align: center;
+}
+
+.button{
+    background-color: rgba(0, 8, 255, 0.519);
+    color: wheat;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+.footer{
+    text-align: center;
+    background-color:rgba(0, 8, 255, 0.519) ;
+    border: 20px;
+    padding: 20px;
+    margin-top: 30px;
+}
+*{
+    text-decoration: none;
+}
